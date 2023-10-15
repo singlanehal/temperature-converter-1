@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url(./istockphoto-1058077096-612x612.jpg);
+}
+
+.converter {
+    margin-top: 20px;
+}
+
+input[type="number"] {
+    width: 100px;
+    margin-right: 10px;
+}
+h1{
+    font-family: 'Chela One', cursive;
+font-family: 'Press Start 2P', cursive;
+font-size: 50px;
+}
+.center{
+    line-height: 7;
+  display: inline-block;
+  vertical-align: middle;
+}
